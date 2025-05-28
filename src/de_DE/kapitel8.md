@@ -40,7 +40,7 @@ Die Bildungslandschaft in Deutschland ist vielfältig. Grundsätzlich stehen ver
 
 ### 8.2.2 Kriterien für die Schulwahl: Was braucht mein Kind?
 
-Die \"beste\" Schule gibt es nicht pauschal. Die Entscheidung hängt von den individuellen Bedürfnissen, Stärken und Herausforderungen Ihres Kindes ab. Folgende Fragen können Ihnen bei der Orientierung helfen:
+Die "beste" Schule gibt es nicht pauschal. Die Entscheidung hängt von den individuellen Bedürfnissen, Stärken und Herausforderungen Ihres Kindes ab. Folgende Fragen können Ihnen bei der Orientierung helfen:
 
 *   **Lernbedürfnisse:**
     *   Welche Art von Lernumgebung braucht mein Kind (ruhig, strukturiert, flexibel, anregend)?
@@ -760,4 +760,4 @@ Die Zukunft hält viele spannende Entwicklungen im Bereich der inklusiven Bildun
 *   Stiftung Mitarbeit. (2020, Dezember). *NeuroDivers e.V.* Abgerufen von [https://www.mitarbeit.de/foerderung_projekte/starthilfefoerderung/gefoerderte_projekte/neurodivers_ev/](https://www.mitarbeit.de/foerderung_projekte/starthilfefoerderung/gefoerderte_projekte/neurodivers_ev/)
 *   Talking Hands Flipbooks. (2025, Januar 28). *Selbstbewusstsein stärken durch Gebärden: Wie Kinder mutiger kommunizieren*. Abgerufen von [https://talkinghandsflipbooks.com/blogs/news/selbstbewusstsein-starken-durch-gebarden-wie-kinder-mutiger-kommunizieren](https://talkinghandsflipbooks.com/blogs/news/selbstbewusstsein-starken-durch-gebarden-wie-kinder-mutiger-kommunizieren)
 *   Worthelden. (2024, September). *LRS: Integrative Lerntherapie*. Abgerufen von [https://worthelden.de/lrs-therapie/lrs-integrative-lerntherapie/](https://worthelden.de/lrs-therapie/lrs-integrative-lerntherapie/)
-
+*   

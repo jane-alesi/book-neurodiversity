@@ -1,102 +1,71 @@
-# Kapitel 7: Den Alltag meistern und Stärken entfalten: Praktische Strategien für ein harmonisches Familienleben
+# Kapitel 7: Übergänge meistern: Pubertät, Adoleszenz und der Weg in die Selbstständigkeit
 
-## 7.1 Einleitung: Vom Verstehen zum Gestalten – Den Alltag aktiv formen
+## 7.1 Einleitung: Die zweite große Reise – Von der Kindheit ins Erwachsenenalter
 
-*   Kurze Brücke zu den vorherigen Kapiteln (Diagnose akzeptieren, Wissen aneignen, Unterstützung finden).
-*   Betonung: Jetzt geht es um die praktische Umsetzung im Familienalltag.
-*   Ziel: Eltern befähigen, einen unterstützenden, stärkenden und gleichzeitig realistischen Alltag zu gestalten.
-*   Humorvoller Einstieg: "Der Alltag mit einem neurodivergenten Kind – manchmal ein liebevolles Chaos, aber immer eine Chance zu wachsen."
+*   Die spezifischen Herausforderungen und Chancen der Pubertät und Adoleszenz bei Neurodiversität.
+*   Veränderte Rolle der Eltern: Loslassen, Vertrauen und neue Formen der Unterstützung.
+*   Humorvoller Einstieg: "Die Pubertät – wenn die Fernbedienung für die Emotionen plötzlich mehr Knöpfe hat als das Kind Finger."
 
-## 7.2 Die Bedeutung von Routinen, Struktur und Vorhersehbarkeit
+## 7.2 Körperliche und hormonelle Veränderungen verstehen und begleiten
 
-*   Warum Routinen für neurodivergente Kinder besonders wichtig sind (Sicherheit, Reduktion von Stress und Überforderung).
-*   **saCway:**
-    *   **Struktur und Klarheit:** Beispiele für Tages-, Wochenpläne (visuelle Hilfen, Timer).
-    *   **Praxisorientierung:** Checkliste: "Unsere Familienroutinen – Was passt zu uns?"
-    *   **Aktualität der Informationen:** Verweis auf Studien zur Wirksamkeit von Routinen (Platzhalter für Recherche).
-*   **samWay:**
-    *   **Empathie:** Verständnis für die Notwendigkeit, aber auch für die Herausforderung der Implementierung.
-    *   **Flexibilität innerhalb der Struktur:** Wie man Routinen anpasst, ohne das Kind zu überfordern.
+*   Besonderheiten der pubertären Entwicklung bei verschiedenen Neurodivergenzen (z.B. sensorische Empfindlichkeiten, Umgang mit Körperpflege).
+*   Aufklärung über Sexualität und Beziehungen: Anpassung an individuelle Bedürfnisse und Verständnisebenen.
+    *   Praxisbeispiel/Fallstudie: Angepasste Aufklärung für ein Kind mit ASS.
+*   Checkliste: Worauf Eltern achten sollten.
 
-## 7.3 Kommunikation, die ankommt: Klarheit und Verbindung schaffen
+## 7.3 Emotionale Achterbahnfahrt: Identitätsfindung und psychische Gesundheit
 
-*   (Falls nicht ausführlich in einem vorherigen Kapitel behandelt, sonst hier spezifische Vertiefung für Alltagssituationen)
-*   **saCway:**
-    *   **Praxisorientierung:** Konkrete Beispiele für klare Anweisungen, Ich-Botschaften, aktives Zuhören im Kontext von Alltagssituationen (z.B. Hausaufgaben, gemeinsame Mahlzeiten).
-    *   Umgang mit Missverständnissen und Kommunikationsabbrüchen.
-*   **samWay:**
-    *   **Empathie:** Die Welt aus der Perspektive des Kindes sehen (z.B. wörtliches Verständnis).
-    *   **Stärkenorientierung:** Kommunikationsstärken des Kindes erkennen und nutzen.
+*   Stärkung des Selbstwertgefühls und Akzeptanz der eigenen Neurodiversität.
+*   Umgang mit spezifischen psychischen Herausforderungen (Ängste, Depressionen, soziale Isolation – oft komorbid).
+    *   Wann professionelle Hilfe suchen? (Abgrenzung zu "normalen" pubertären Stimmungsschwankungen)
+*   Förderung von Resilienz und Coping-Strategien.
+*   Humor: "Manchmal ist die einzige Konstante in der Pubertät die Unvorhersehbarkeit der Stimmungsschwankungen – auch bei den Eltern."
 
-## 7.4 Stärken erkennen und gezielt fördern: Das Potenzial entfesseln
+## 7.4 Soziale Welten im Wandel: Freundschaften, Beziehungen und Gruppenzugehörigkeit
 
-*   **samWay:**
-    *   **Stärkenorientierung:** Weg von der Defizitorientierung, hin zur Identifikation und Wertschätzung individueller Talente und Interessen.
-    *   Wie Eltern "Schatzsucher" für die Stärken ihrer Kinder werden können.
-*   **saCway:**
-    *   **Praxisorientierung:** Methoden zur Stärkenfindung (z.B. Beobachtung, Gespräche, Interessenlisten).
-    *   Beispiele, wie Hobbys und Interessen in den Alltag integriert und zur Förderung genutzt werden können (Selbstwertgefühl, Kompetenzerleben).
-    *   **Referenzen:** Verweis auf Konzepte der positiven Psychologie (Platzhalter).
+*   Herausforderungen und Strategien beim Aufbau und Erhalt von Freundschaften.
+*   Umgang mit Gruppendruck und sozialen Erwartungen.
+*   Unterstützung bei ersten romantischen Beziehungen.
+*   Fallstudie: Ein Jugendlicher mit ADHS navigiert soziale Situationen.
 
-## 7.5 Umgang mit alltäglichen Herausforderungen: Strategien für schwierige Momente
+## 7.5 Schulische und berufliche Orientierung: Weichen stellen für die Zukunft
 
-*   **saCway:**
-    *   **Praxisorientierung:**
-        *   Sensorische Sensibilitäten im Alltag managen (Kleidung, Essen, Geräusche, Licht) – konkrete Tipps.
-        *   Umgang mit Übergängen und Veränderungen.
-        *   Strategien bei Meltdowns, Shutdowns oder Wutausbrüchen (Prävention, Deeskalation, Co-Regulation).
-        *   Checkliste: "Notfallplan für schwierige Momente."
-    *   **Aktualität:** Bezug auf aktuelle Interventionsansätze (Platzhalter).
-*   **samWay:**
-    *   **Empathie:** Verständnis für die Ursachen des Verhaltens.
-    *   **Ressourcenorientierung:** Welche inneren und äußeren Ressourcen können helfen?
+*   Übergang von der Schule in Ausbildung, Studium oder Beruf.
+    *   Welche Schulformen und Ausbildungswege passen?
+    *   Nachteilsausgleich und Unterstützungssysteme kennen und nutzen.
+*   Berufswahl: Interessen und Stärken als Kompass.
+    *   Vorstellung von Berufsfeldern, die für neurodivergente Menschen besonders geeignet sein können.
+*   Förderung von Schlüsselkompetenzen für das Berufsleben (Organisation, Zeitmanagement, Kommunikation am Arbeitsplatz).
+*   Checkliste: Vorbereitung auf den Übergang Schule-Beruf.
 
-## 7.6 Förderung von Selbstständigkeit und Eigenverantwortung
+## 7.6 Der Weg in die Selbstständigkeit: Wohnen, Finanzen und Alltagsbewältigung
 
-*   **saCway:**
-    *   **Praxisorientierung:** Altersgerechte Aufgaben im Haushalt, Planung kleiner eigener Projekte.
-    *   Bedeutung von Wahlmöglichkeiten und Mitbestimmung.
-    *   Fehler als Lernchancen begreifen.
-*   **samWay:**
-    *   **Stärkenorientierung:** Vertrauen in die Fähigkeiten des Kindes.
-    *   **Geduld und Ermutigung** als Schlüssel.
+*   Verschiedene Wohnformen und Unterstützungsmöglichkeiten (z.B. betreutes Wohnen, Wohngemeinschaften).
+*   Finanzielle Grundlagen: Umgang mit Geld, Budgetplanung, Anträge auf Unterstützung.
+*   Förderung von Alltagskompetenzen (Haushalt, Mobilität, Behördengänge).
+*   Praxisbeispiel: Schrittweise Verselbstständigung eines jungen Erwachsenen mit Lernschwierigkeiten.
 
-## 7.7 Die Rolle von Spiel, Freizeit und sozialen Kontakten
+## 7.7 Rechtliche Aspekte und Vorsorge im Erwachsenenalter
 
-*   **saCway:**
-    *   **Praxisorientierung:** Ideen für angepasste Spielangebote, die Interessen aufgreifen.
-    *   Unterstützung bei der Anbahnung und Gestaltung von sozialen Kontakten (Verabredungen, Gruppenaktivitäten).
-    *   Umgang mit sozialen Herausforderungen.
-*   **samWay:**
-    *   **Inklusion:** Wie kann Teilhabe gelingen?
-    *   **Freude und Leichtigkeit** in den Vordergrund stellen.
+*   Gesetzliche Betreuung vs. unterstützte Entscheidungsfindung.
+*   Vorsorgevollmacht und Patientenverfügung.
+*   Wichtige Anlaufstellen und Beratungsangebote für junge Erwachsene und deren Familien.
 
-## 7.8 Selbstfürsorge für Eltern: Energie tanken für den Familienmarathon
+## 7.8 Empowerment und Selbstvertretung (Self-Advocacy)
 
-*   **samWay:**
-    *   **Empathie und Verständnis:** Anerkennung der hohen Belastung und der emotionalen Achterbahnfahrt.
-    *   **Humor:** "Auch Super-Eltern brauchen mal eine Pause – und sei es nur heimlich Schokolade im Bad."
-*   **saCway:**
-    *   **Praxisorientierung:** Konkrete Tipps zur Stressbewältigung, Aufbau von Unterstützungsnetzwerken, Setzen von Grenzen.
-    *   Checkliste: "Meine Tankstellen – Was gibt mir Kraft?"
-    *   **Referenzen:** Hinweis auf Entspannungstechniken, Beratungsangebote für Eltern (Platzhalter).
+*   Die Bedeutung der Selbstvertretung für ein selbstbestimmtes Leben.
+*   Wie Eltern ihre Kinder dabei unterstützen können, für ihre Rechte und Bedürfnisse einzustehen.
+*   Vorstellung von Organisationen und Netzwerken von und für neurodivergente Menschen.
+*   Humor: "Manchmal ist die beste Antwort auf Unverständnis ein gut informiertes Lächeln und die Telefonnummer des eigenen Anwalts – oder zumindest einer guten Selbsthilfegruppe."
 
-## 7.9 Fallbeispiele: Einblicke in andere Familien
+## 7.9 Zusammenfassung: Vertrauen in den Weg und die Fähigkeiten des jungen Erwachsenen
 
-*   **saCway:**
-    *   **Praxisorientierung:** 2-3 anonymisierte, aber aussagekräftige Fallbeispiele, die typische Alltagssituationen und Lösungsansätze illustrieren.
-    *   Fokus auf unterschiedliche Neurodivergenzen und Altersstufen (wenn möglich).
-*   **samWay:**
-    *   **Verbindung schaffen:** Eltern erkennen sich wieder und fühlen sich verstanden.
+*   Rückblick auf die Entwicklung und die Rolle der Eltern im Wandel.
+*   Ermutigung für Eltern, den Loslöseprozess positiv zu gestalten.
+*   Ausblick: Ein Leben voller Möglichkeiten.
 
-## 7.10 Zusammenfassung: Die wichtigsten Erkenntnisse für Ihren Alltag
+## 7.10 Weiterführende Ressourcen und Organisationen
+    *   (Platzhalter für spezifische, geprüfte URLs und Literaturhinweise, die im Rahmen der detaillierten Ausarbeitung recherchiert werden)
 
-*   Kernbotschaften des Kapitels prägnant zusammenfassen.
-*   Ermutigung und positiver Ausblick.
-*   Handlungsaufforderung: Kleine Schritte machen einen großen Unterschied.
-
-## 7.11 Weiterführende Ressourcen und Literaturempfehlungen
-
-*   **saCway:**
-    *   **Referenzen:** Spezifische Bücher, Websites, Organisationen zum Thema Alltagsgestaltung und Stärkenförderung (Platzhalter für Recherche und URL-Prüfung).
-    *   **Wichtig für Referenzwerk:** Sorgfältig ausgewählte, qualitativ hochwertige Quellen.
+---
+*Hinweis: Alle Referenzen und Checklisten sind vorläufig und müssen im Rahmen der detaillierten Kapitelüberarbeitung gemäß den Projektrichtlinien (saCway/samWay) intensiv recherchiert, geprüft und ergänzt werden.*

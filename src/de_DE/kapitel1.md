@@ -138,7 +138,7 @@ Die Bewältigung der Diagnose ist ein individueller Prozess. Es gibt keinen allg
 ---
 ### Visuelles Flowchart: „Von der Diagnose zum Kompass – die ersten Schritte“
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
   A["Diagnose erhalten"] --> B["Emotionale Verarbeitung (individuell, ca. 2 Wochen)"]
   B --> C["Informationssammlung & Netzwerkaufbau (laufend, intensiv ca. Woche 3-6)"]
@@ -146,7 +146,7 @@ flowchart TD
   D --> E["Regelmäßige Evaluation & Anpassung (z.B. 3-Monats-Meilensteine)"]
   style A fill:#f9f,stroke:#333,stroke-width:2px
   style E fill:#bbf,stroke:#333,stroke-width:2px
-\`\`\`
+```
 *Das Diagramm steht als Download und interaktive Version auf der Buchwebseite zur Verfügung.*
 
 ---

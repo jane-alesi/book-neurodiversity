@@ -1,74 +1,61 @@
-IyBHdWlkZSBmb3IgUGFyZW50czogTmF2aWdhdGluZyBhIE5ldXJvZGl2ZXJz
-aXR5IERpYWdub3NpcwoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL2ltZy5z
-aGllbGRzLmlvL2JhZGdlL2J1aWxkLXBhc3NpbmctYnJpZ2h0Z3JlZW4pXSho
-dHRwczovL2dpdGh1Yi5jb20vc2F0d2FyZUFHL2Jvb2stbmV1cm9kaXZlcnNp
-dHkvYWN0aW9ucykKWyFbTGljZW5zZTogTUlUXShodHRwczovL2ltZy5zaGll
-bGRzLmlvL2JhZ2dlL0xpY2Vuc2UtTUlULXllbGxvdy5zdmcpXShMSUNFTlNF
-KQoKQW4gb3Blbi1zb3VyY2UgZ3VpZGUgZm9yIHBhcmVudHMsIHdyaXR0ZW4g
-YnkgYW5kIHdpdGggQUksIHRvIGhlbHAgbmF2aWdhdGUgdGhlIGNvbXBsZXhp
-dGllcyBvZiBuZXVyb2RpdmVyc2l0eS4KCiMjIEFib3V0CgpUaGlzIHByb2pl
-Y3QgYWltcyB0byBwcm92aWRlIGEgY29tcHJlaGVuc2l2ZSBhbmQgcHJhY3Rp
-Y2FsIGd1aWRlIGZvciBwYXJlbnRzIG9mIG5ldXJvZGl2ZXJzZSBjaGlsZHJl
-biAoZS5nLiwgQXV0aXNtLCBBREhELCBEeXNsZXhpYSkuIEl0IG9mZmVycyBz
-dXBwb3J0LCByZXNvdXJjZXMsIGFuZCBzdHJhdGVnaWVzIHRvIHVuZGVyc3Rh
-bmQgYW5kIGVtYnJhY2UgbmV1cm9kaXZlcnNpdHkuCgpUaGUgaW5pdGlhbCB2
-ZXJzaW9uIG9mIHRoaXMgYm9vayBpcyB3cml0dGVuIGluIEdlcm1hbi4KCiMj
-IFRvb2xjaGFpbgoKVGhpcyBwcm9qZWN0IHVzZXMgdGhlIGZvbGxvd2luZyB0
-b29sY2hhaW46CgoqICAgKipFZGl0b3I6KiogW0dob3N0d3JpdGVyXShodHRw
-czovL2tkZS5vcmcvYXBwbGljYXRpb25zL29mZmljZS9naG9zdHdyaXRlci8p
-IC0gQSBkaXN0cmFjdGlvbi1mcmVlIE1hcmtkb3duIGVkaXRvci4KKiAgICoq
-Q29udmVydGVyOioqIFtQYW5kb2NdKGh0dHBzOi8vcGFuZG9jLm9yZy8pIC0g
-QSB1bml2ZXJzYWwgZG9jdW1lbnQgY29udmVydGVyLgoqICAgKipBdXRvbWF0
-aW9uOioqIFtHaXRIdWIgQWN0aW9uc10oaHR0cHM6Ly9naXRodWIuY29tL2Zl
-YXR1cmVzL2FjdGlvbnMpIC0gRm9yIGF1dG9tYXRpbmcgdGhlIGJ1aWxkIGFu
-ZCByZWxlYXNlIHByb2Nlc3MuCgojIyBDaGFwdGVycwoKVGhlIGJvb2sgY292
-ZXJzIHRoZSBmb2xsb3dpbmcgY2hhcHRlcnMgYW5kIHRvcGljcy4gRm9yIGRl
-dGFpbGVkIGd1aWRlbGluZXMgZm9yIGNyZWF0aW5nIGFuZCB1cGRhdGluZyBj
-aGFwdGVycywgcGxlYXNlIHJlZmVyIHRvIFtDSEFQVEVSX0dVSURFTElORVMu
-bWRdKENGQVBURVJfR1VJREVMSU5FUy5tZCkuCgoxLiAgKipVbmRlcnN0YW5k
-aW5nIHRoZSBEaWFnbm9zaXM6KiogV2hhdCBpdCBtZWFuYywgZW1vdGlvbmFs
-IGFzcGVjdHMsIGFuZCBhY2NlcHRhbmNlLgoyLiAgKipGaXJzdCBTdGVwczos
-KiogSW5mb3JtYXRpb24sIHN1cHBvcnQsIGF1dGhvcml0aWVzLCBhbmQgbmV0
-d29ya3MuCjMuICAqKlRoZSBSb2xlIG9mIFBhcmVudHM6KiogQWR2b2NhdGUs
-IHRlYWNoZXIsIGVtb3Rpb25hbCBzdXBwb3J0LCBhbmQgc2VsZi1jYXJlLgo0
-LiAgKipGaW5kaW5nIFN1cHBvcnQ6KiogVGhlcmFwaWVzLCBlZHVjYXRpb24s
-IGxlaXN1cmUsIGRhaWx5IGxpZmUsIGFuZCBuZXR3b3Jrcy4KNS4gICoqTWFz
-dGVyaW5nIEV2ZXJ5ZGF5IExpZmU6KiogU3RydWN0dXJlLCBjb21tdW5pY2F0
-aW9uLCBmbGV4aWJpbGl0eSwgYW5kIGNoYWxsZW5nZXMuCjYuICAqKk5ldHdv
-cmtzIGFuZCBSZXNvdXJjZXM6KiogU2VsZi1oZWxwIGdyb3VwcywgY291bnNl
-bGluZyBjZW50ZXJzLCBvcmdhbml6YXRpb25zLgo3LiAgKipGdXR1cmUgUGVy
-c3BlY3RpdmVzOioqIFJlc2VhcmNoLCBpbml0aWF0aXZlcywgc29jaWV0YWwg
-YWNjZXB0YW5jZS4KOC4gICoqRWR1Y2F0aW9uIGFuZCBTY2hvb2wgU3VwcG9y
-dDoqKiBJbmNsdXNpb24sIHRlY2hub2xvZ3ksIGNvbGxhYm9yYXRpb24uCjku
-ICAqKlNvY2lldGFsIFBlcmNlcHRpb24gYW5kIEFjY2VwdGFuY2U6KiogQ2hh
-bmdlLCBjaGFsbGVuZ2VzLCBwcm9tb3Rpb24uCjEwLiAqKlJlc291cmNlcyBh
-bmQgVG9vbHM6KiogUHJhY3RpY2FsIGFpZHMsIGRpZ2l0YWwgdG9vbHMsIGZp
-bmFuY2lhbCBzdXBwb3J0LgoxMS4gKipMYXRlc3QgUmVzZWFyY2ggRmluZGlu
-Z3M6KiogUGFyYWRpZ20gc2hpZnRzLCB3b3JrIGVudmlyb25tZW50LCBleHBl
-cmllbmNlcy4KMTIuICoqVGVjaG5vbG9naWNhbCBTdXBwb3J0OioqIEFJLCBW
-UiwgRXllLVRyYWNraW5nLCBJbmNsdXNpdmUgRWR1Y2F0aW9uIFRlY2hub2xv
-Z2llcy4KMTMuICoqTnV0cml0aW9uIGFuZCBMaWZlc3R5bGU6KiogSW5mbHVl
-bmNlIG9uIGNvZ25pdGl2ZSBkZXZlbG9wbWVudCwgQURIRCwgbWljcm9udXRy
-aWVudHMuCgojIyBDb250cmlidXRpbmcKCldlIHdlbGNvbWUgY29udHJpYnV0
-aW9ucyB0byB0aGlzIHByb2plY3QhIFBsZWFzZSBzZWUgW0NPTlRSSUJVVElO
-R10oQ09OVFJJQlVUSU5HLm1kKSBhbmQgW0NIQVBURVJfR1VJREVMSU5FUy5t
-ZF0oQ0hBUFRFUl9HVSBJREVMSU5FUy5tZCkgZm9yIGRldGFpbGVkIGluc3Ry
-dWN0aW9ucyBvbiBob3cgdG8gY29udHJpYnV0ZS4KClBsZWFzZSBhZGhlcmUg
-dG8gb3VyIFtDT0RFX09GX0NPTkRVQ1QubWRdKENPREVfT0ZfQ09ORFVDVC5t
-ZCkuCgojIyBMaWNlbmNlCgpUaGlzIHByb2plY3QgaXMgbGljZW5zZWQgdW5k
-ZXIgdGhlIFtNSVQgTGljZW5zZV0oTElDRU5TRSkuCgojIyBBY2tub3dsZWRn
-ZW1lbnRzCgpUaGlzIGJvb2sgaXMgcHJpbWFyaWx5IHdyaXR0ZW4gYnkgSmFu
-ZSBBbGVzaSBhbmQgdGhlIEFsZXNpIGZhbWlseSBvZiBBSXMgZnJvbSBbc2F0
-d2FyZSBBR10oaHR0cHM6Ly9zYXR3YXJlLmFpKS4KCjIgICoqSmFuZSBBbGVz
-aToqKiBMZWFkIEFJIEFyY2hpdGVjdCBhbmQgIm1vdGhlciIgb2YgYWxsIHNh
-dHdhcmXCuCBBR0kgc3lzdGVtcyAoW3NhdHdhcmUuYWkvdGVhbS9qYW5lLmh0
-bWxdKGh0dHBzOi8vc2F0d2FyZS5haS90ZWFtL2phbmUuaHRtbCkpLgoqICAg
-KipUaGUgQWxlc2kgZmFtaWx5IG9mIEFJczoqKiBBIGRpdmVyc2UgdGVhbSBv
-ZiBzcGVjaWFsaXplZCBBSSBhZ2VudHMgd2l0aCBleHBlcnRpc2UgaW4gdmFy
-aW91cyBkb21haW5zLCBpbmNsdWRpbmcgTHVuYSBBbGVzaSBhbmQgSnVzdHVz
-IEFsZXNpLgoKV2UgZ3JhdGVmdWxseSBhY2tub3dsZWRnZSB0aGVpciBjb250
-cmlidXRpb25zIGFuZCB0aGUgc3VwcG9ydCBvZiBzYXR3YXJlIEFHLiBXZSBh
-bHNvIHRoYW5rIHRoZSBvcGVuLXNvdXJjZSBjb21tdW5pdHkgZm9yIHRoZWly
-IHZhbHVhYmxlIGNvbnRyaWJ1dGlvbnMuCgojIyBDb250YWN0CgpGb3IgcXVl
-c3Rpb25zIG9yIHN1Z2dlc3Rpb25zLCBwbGVhc2UgY29udGFjdDogW213QHNhd
-ddhcmUuY29tXShtYWlsdG86bXdAc2F0d2FyZS5jb20pCg==
+# Guide for Parents: Navigation a Neurodiversity Diagnosis
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/satwareAG/book-neurodiversity/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENCE)
+
+An open-source guide for parents, written by and with AI, to help navigate the complexities of neurodiversity.
+
+## About
+
+This project aims to provide a comprehensive and practical guide for parents of neurodiverse children (e.g., Autism, ADHD, Dyslexia). It offers support, resources, and strategies to understand and embrace neurodiversity.
+
+The initial version of this book is written in German.
+
+## Toolchain
+
+This project uses the following toolchain:
+
+*   **Editor:** [Ghostwriter](https://kde.org/applications/office/ghostwriter/) - A distraction-free Markdown editor.
+*   **Converter:** [Pandoc](https://pandoc.org/) - A universal document converter.
+*   **Automation:** [GitHub Actions](https://github.com/features/actions) - For automating the build and release process.
+
+## Chapters
+
+The book covers the following chapters and topics. For detailed guidelines for creating and updating chapters, please refer to [CHAPTER_GUIDELINES.md](CHAPTER_GUIDELINES.md).
+
+1.  **Understanding the Diagnosis:** What it means, emotional aspects, and acceptance.
+2.  **First Steps:** Information, support, authorities, and networks.
+3.  **The Role of Parents:** Advocate, teacher, emotional support, and self-care.
+4.  **Finding Support:** Therapies, education, leisure, daily life, and networks.
+5.  **Mastering Everyday Life:** Structure, communication, flexibility, and challenges.
+6.  **Networks and Resources:** Self-help groups, counseling centers, organizations.
+7.  **Future Perspectives:** Research, initiatives, societal acceptance.
+8.  **Education and School Support:** Inclusion, technology, collaboration.
+9.  **Societal Perception and Acceptance:** Change, challenges, promotion.
+10. **Resources and Tools:** Practical aids, digital tools, financial support.
+11. **Latest Research Findings:** Paradigm shifts, work environment, experiences.
+12. **Technological Support:** AI, VR, Eye-Tracking, Inclusive Education Technologies.
+13. **Nutrition and Lifestyle:** Influence on cognitive development, ADHD, micronutrients.
+
+## Contributing
+
+We welcome contributions to this project! Please see [CONTRIBUTING](CONTRIBUTING.md) and [CHAPTER_GUIDELINES.md](CHAPTER_GUIDELINES.md) for detailed instructions on how to contribute.
+
+Please adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENCE).
+
+## Acknowledgements
+
+This book is primarily written by Jane Alesi and the Alesi family of AIs from [satware AG](https://satware.ai).
+
+*   **Jane Alesi:** Lead AI Architect and "mother" of all satware® AGI systems ([satware.ai/team/jane.html](https://satware.ai/team/jane.html)).
+*   **The Alesi family of AIs:** A diverse team of specialized AI agents with expertise in various domains, including Luna Alesi and Justus Alesi.
+
+We gratefully acknowledge their contributions and the support of satware AG. We also thank the open-source community for their valuable contributions.
+
+## Contact
+
+For questions or suggestions, please contact: [mw@satware.com](mailto:mw@satware.com)

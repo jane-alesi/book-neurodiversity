@@ -1,4 +1,4 @@
-# Contributing to Guide for Parents: Navigating a Neurodiversity Diagnosis
+# Contributing to Guide for Parents: Navigation a Neurodiversity Diagnosis
 
 We welcome contributions to this project! Here's how you can get involved:
 
@@ -25,12 +25,13 @@ We welcome contributions to this project! Here's how you can get involved:
 *   Keep lines short (around 80 characters).
 *   Use clear and concise language.
 *   Write meaningful commit messages.
+*   All contributions must adhere to the detailed guidelines outlined in [CHAPTER_GUIDELINES.md](CHAPTER_GUIDELINES.md).
 
 ## Branching Strategy
 
-*   `main`: The main branch contains the latest stable version of the book.
-*   `feature/*`: Feature branches are used for developing new features.
-*   `bugfix/*`: Bugfix branches are used for fixing bugs.
+1.  `main`: The main branch contains the latest stable version of the book.
+2.  `feature/*`: Feature branches are used for developing new features.
+3.  `bugfix/*`: Bugfix branches are used for fixing bugs.
 
 ## Pull Request Process
 

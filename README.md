@@ -1,7 +1,7 @@
-# Guide for Parents: Navigating a Neurodiversity Diagnosis
+# Guide for Parents: Navigation a Neurodiversity Diagnosis
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/satwareAG/book-neurodiversity/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENCE)
 
 An open-source guide for parents, written by and with AI, to help navigate the complexities of neurodiversity.
 
@@ -21,7 +21,7 @@ This project uses the following toolchain:
 
 ## Chapters
 
-The book covers the following topics:
+The book covers the following chapters and topics. For detailed guidelines for creating and updating chapters, please refer to [CHAPTER_GUIDELINES.md](CHAPTER_GUIDELINES.md).
 
 1.  **Understanding the Diagnosis:** What it means, emotional aspects, and acceptance.
 2.  **First Steps:** Information, support, authorities, and networks.
@@ -39,13 +39,13 @@ The book covers the following topics:
 
 ## Contributing
 
-We welcome contributions to this project! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to contribute.
+We welcome contributions to this project! Please see [CONTRIBUTING](CONTRIBUTING.md) and [CHAPTER_GUIDELINES.md](CHAPTER_GUIDELINES.md) for detailed instructions on how to contribute.
 
 Please adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENCE).
 
 ## Acknowledgements
 
